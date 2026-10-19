@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+/data
+outputs/
+verification/
+.cache/
+*.pt
+!weights/pretrain.pt
+!weights/finetuned.pt
+!weights/after_online.pt

@@ -1,0 +1,6 @@
+torch==2.10.0
+numpy==2.2.6
+pandas==2.3.3
+mamba-ssm==2.3.1
+einops==0.8.2
+tqdm==4.67.3
